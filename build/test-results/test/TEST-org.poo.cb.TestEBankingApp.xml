@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.poo.cb.TestEBankingApp" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-02-12T16:45:59" hostname="DESKTOP-7HK2H73" time="0.113">
+  <properties/>
+  <testcase name="testTheTest()" classname="org.poo.cb.TestEBankingApp" time="0.015"/>
+  <testcase name="test1()" classname="org.poo.cb.TestEBankingApp" time="0.028"/>
+  <testcase name="test2()" classname="org.poo.cb.TestEBankingApp" time="0.013"/>
+  <testcase name="test3()" classname="org.poo.cb.TestEBankingApp" time="0.005"/>
+  <testcase name="test4()" classname="org.poo.cb.TestEBankingApp" time="0.006"/>
+  <testcase name="test5()" classname="org.poo.cb.TestEBankingApp" time="0.013"/>
+  <testcase name="test6()" classname="org.poo.cb.TestEBankingApp" time="0.006"/>
+  <testcase name="test7()" classname="org.poo.cb.TestEBankingApp" time="0.005"/>
+  <testcase name="test8()" classname="org.poo.cb.TestEBankingApp" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
